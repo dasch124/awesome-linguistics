@@ -41,6 +41,7 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 * [The Porter Stemmer Algorithm](http://tartarus.org/martin/PorterStemmer/) - The ‘official’ home page for distribution of the Porter Stemming Algorithm, written and maintained by its author, Martin Porter.
 
 ### Data sets
+* [Austria Media Corpus](https://amc.acdh.oeaw.ac.at) - large corpus covering the whole publication landscape of Austria
 * [EuroRomCom Data](https://github.com/kirkins/euroromcom) - JSON formatted Pan-Romance word lists.
 * [Araneum Germanicum](http://aranea.juls.savba.sk/aranea_about/_germanicum.html)
 * [CEHugeWebCorpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11372/LRT-2638) - German corpus based on CommonCrawl
@@ -105,6 +106,7 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 ### Standards
 
 * [DTA Basisformat](https://www.deutschestextarchiv.de/doku/basisformat/)
+* [GOLD - General Ontolgy for Linguistic Description](https://linguistics-ontology.org/) 
 * [ISO TC 37 SC 4](https://www.iso.org/committee/297592.html)
 * [UIMA](https://docs.oasis-open.org/uima/v1.0/os/uima-spec-os.html)
 
